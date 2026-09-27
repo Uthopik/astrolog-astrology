@@ -1,9 +1,9 @@
 # astrolog-astrology
 Open source astrology software
 
-**Astrolog32** is primarily designed for use on Windows. I have created an **AppImage** version of the program using **wine.**
+**Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **Wine.**
 
-[Home page of Astrolog32 proyect](http://astrolog32v3.altervista.org)
+[Home page of Astrolog32 proyect](https://www.astrolog.org/astrolog.htm)
 
 # AppImage version of Astrolog v8.0 with wine
 - **Astrolog-v8.0-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog-astrology/releases/download/v8.0/Astrolog-v8.0-i686.AppImage)**
