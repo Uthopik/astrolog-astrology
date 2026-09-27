@@ -1,7 +1,7 @@
 # astrolog-astrology
 Open source astrology software
 
-**Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **Wine.**
+**Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **wine.**
 
 [Home page of Astrolog proyect](https://www.astrolog.org/astrolog.htm)
 
