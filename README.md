@@ -3,7 +3,7 @@ Open source astrology software
 
 **Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **Wine.**
 
-[Home page of Astrolog32 proyect](https://www.astrolog.org/astrolog.htm)
+[Home page of Astrolog proyect](https://www.astrolog.org/astrolog.htm)
 
 # AppImage version of Astrolog v8.0 with wine
 - **Astrolog-v8.0-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog-astrology/releases/download/v8.0/Astrolog-v8.0-i686.AppImage)**
