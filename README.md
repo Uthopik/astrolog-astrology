@@ -5,12 +5,12 @@ Open source astrology software
 
 [Home page of Astrolog32 proyect](http://astrolog32v3.altervista.org)
 
-# AppImage version of Astrolog32 v3.70 with wine
-- **Astrolog32-v3.70-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog32-astrology/releases/download/v3.70/Astrolog32-v3.70-i686.AppImage)**
+# AppImage version of Astrolog v8.0 with wine
+- **Astrolog-v8.0-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog-astrology/releases/download/v8.0/Astrolog-v8.0-i686.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
 
 ```bash
-chmod +x ./Astrolog32-v3.70-i686.AppImage
+chmod +x ./Astrolog-v8.0-i686.AppImage
 ```
 
 # Other interesting astrology programs
